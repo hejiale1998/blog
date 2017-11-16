@@ -12,12 +12,3 @@ excerpt_separator: <!--excerpt-->
 gems: ['jekyll-paginate']
 
 exclude: ['open.bat','Gemfile','Gemfile.lock','Guardfile', 'gulpfile.js']
-
-# Collections
-collections:
- common:
-  output: true
-  permalink: /:collection/:title
- ui:
-  output: true
-  permalink: /:collection/:title
