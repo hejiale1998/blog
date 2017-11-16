@@ -7,7 +7,7 @@ tags:
 > It never will rain roses. When we want to have more roses we must plant trees.
 
 [链接这样写](http://www.baidu.com)
-![我喜欢的图片](/images/11-16.jpg)
+![我喜欢的图片](./images/11-16.jpg)
 
 <font color=#0ff size=7>es6</font>
 ### 新增加了let和const声明
